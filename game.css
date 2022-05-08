@@ -1,0 +1,21 @@
+body
+{
+	background: rgb(223, 92, 110);
+}
+
+	.Nam_div , .Name_div
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#login{background-color: rgba(0, 162, 255, 0.589);
+width: 100;}
